@@ -1,9 +1,18 @@
 - [Portada](../README.md)
-- Getting Started
-  - [Introduction](./getting-started/introduction.md)
-  - [Downloads](./getting-started/download.md)
-  - [Contents](./getting-started/contents.md)
-- Components
-  - [Alerts](./components/alerts.md)
-  - [Accordion](./components/accordion.md)
-  - [Buttons](./components/buttons.md)
+- Libros
+  - [22/11/63](./Libros/22-11-63.md)
+  - [El hombre en busca de sentido](./Libros/ElHombreEnBuscaDeSentido.md)
+  - [Lolita](./Libros/Lolita.md)
+- Peliculas
+  - [Efecto Mariposa](./Peliculas/EfetoMariposa.md)
+  - [Eterno resplandor de una mente sin recuerdos](./Peliculas/EternoResplandor.md)
+  - [If i stay](./Peliculas/IfIStay.md)
+- Series
+  - [Breaking bad](./Series/BreakingBad.md)
+  - [Grand army](./Series/GrandArmy.md)
+  - [The walking dead](./Series/TheWalkingDead.md)
+- Videojuegos
+  - [Guitar hero](./Videojuegos/GuitarHero.md)
+  - [Life is strange](./Videojuegos/LifeIsStrangeTC.md)
+  - [The last of us](./Videojuegos/TheLastOfUs.md)
+

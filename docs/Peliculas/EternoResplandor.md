@@ -1,5 +1,5 @@
-# Botones
+# Eterno resplandor de una mente sin recuerdos
 
-Este es el contenido de la sección botones
+![Logo Markdown](https://cdn.discordapp.com/attachments/1011284720350412802/1025068056772366386/descarga_3.jpg)
 
-bla bla bla...
+Joel recibe un terrible golpe cuan-do descubre que su novia Clementine ha hecho que borren de su memoria todos los recuerdos de su tormentosa rela-ción. Desesperado, se pone en contacto con el creador del proceso, el Dr. Howard Mierzwiak , para que borre a Clementine de su memoria. Pero cuando los re-cuerdos de Joel empiezan a desaparecer de pronto redescubre su amor por Clementine. Desde lo más profundo de su cerebro intenta-rá parar el proceso. Mientras el Dr. Mierzwiak y su equipo (Kirsten Dunst, Mark Ruffalo, Elijah Wood) le persiguen a través del laberin-to de sus recuerdos, está claro que Joel simplemente no puede quitarse a Clementine de la cabeza.
